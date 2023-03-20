@@ -1,0 +1,515 @@
+@media (min-width: 384px) {
+    .navbar-brand {
+        max-width: 200px;
+    }
+}
+@media (min-width: 480px) {
+    .navbar-brand {
+        max-width: 250px;
+    }
+}
+@media (min-width: 576px) {
+    .navbar {
+        padding-top: 30px;
+    }
+    .navbar-brand {
+        max-width: 280px;
+    }
+}
+@media (min-width: 768px) {
+    .navbar-brand {
+        max-width: 300px;
+    }
+}
+@media (min-width: 992px) {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+}
+@media (min-width: 1200px) {
+    .navbar {
+        padding-top: 38px;
+        padding-bottom: 38px;
+    }
+}
+@media (min-width: 1300px) {
+    li.nav-item {
+        margin-right: 10px;
+    }
+}
+@media (max-width: 1530.98px) {
+    .our-markets .parallax-bg {
+        background-size: 75% auto;
+    }
+}
+@media (max-width: 1270.98px) {
+    .our-markets .parallax-bg {
+        background-size: 80% auto;
+    }
+}
+@media (max-width: 1199.98px) {
+    .dropdown-menu {
+        padding-top: 30px;
+    }
+    .big-title {
+        font-size: 70px;
+    }
+    .welcome-video:not(.get-in-touch) {
+        margin-top: 101.61px;
+    }
+    .complex-exterior .parallax-img {
+        max-width: 550px;
+        top: 25%;
+    }
+    .relationship-driven .rd-video {
+        top: 101.61px;
+    }
+    .services {
+        padding-top: 120px;
+        padding-bottom: 110px;
+    }
+    .testimonial .container {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+    .testimonial .title-font {
+        padding-top: 60px;
+        padding-bottom: 40px;
+        padding-left: 18px;
+        padding-right: 18px;
+    }
+    .scrolling-text {
+        min-height: 900px;
+        margin-top: 85px;
+    }
+    .scrolling-text h2 {
+        font-size: 90px;
+    }
+    .our-markets .parallax-bg {
+        background-size: cover;
+    }
+    .our-markets .custom-accordion .accordion__item .accordion__content p {
+        max-width: 600px;
+    }
+    .featured-slider .swiper-button-next,
+    .featured-slider .swiper-button-prev {
+        max-width: 65px;
+    }
+    .get-in-touch {
+        margin-top: 100px;
+    }
+    footer .copyright {
+        margin-top: 70px;
+    }
+}
+@media (max-width: 991.98px) {
+    .dropdown-menu {
+        margin-top: 5px;
+        margin-left: 0;
+        border: 1px solid var(--primary-color);
+        margin-bottom: 5px;
+        padding-top: 0;
+    }
+    .dropdown-menu li:first-child {
+        border-top: 0;
+    }
+    .text-12 {
+        font-size: 29px;
+    }
+    .big-title {
+        font-size: 60px;
+    }
+    .navbar-collapse {
+        padding-top: 20px;
+    }
+    li.nav-item {
+        margin-bottom: 7px;
+    }
+    .button-1 {
+        padding: 14px 18px;
+        padding-right: 85px;
+    }
+    .complex-exterior {
+        padding-top: 100px;
+    }
+    .complex-exterior .parallax-img {
+        right: 0;
+        max-width: 550px;
+    }
+    .complex-exterior .end {
+        margin-top: 400px;
+    }
+    .complex-exterior .end .position-absolute {
+        right: -50%;
+    }
+    .testimonial {
+        padding-top: 70px;
+    }
+    .scrolling-text {
+        min-height: 800px;
+    }
+    .scrolling-text h2 {
+        font-size: 90px;
+    }
+    .our-markets {
+        padding-top: 100px;
+        padding-bottom: 90px;
+    }
+    .our-markets .custom-accordion .accordion__item {
+        padding-top: 28px;
+        padding-bottom: 28px;
+    }
+    .our-markets .bottom h3 {
+        font-size: 35px;
+    }
+    .featured-slider .swiper-button-next,
+    .featured-slider .swiper-button-prev {
+        max-width: 55px;
+    }
+    .featured-slider .swiper-pagination {
+        bottom: 45px;
+    }
+    .featured-slider .featured-content {
+        bottom: 25px;
+    }
+    .featured-slider .featured-content h3 {
+        font-size: 30px;
+    }
+    .featured-slider .featured-content p {
+        font-size: 16px;
+    }
+    .featured-slider .owl-dots {
+        bottom: 16px;
+        padding-bottom: 15px;
+        padding-top: 6px;
+    }
+    .featured-slider .owl-nav button {
+        max-width: 55px;
+    }
+    .get-in-touch {
+        margin-top: 80px;
+    }
+    .get-in-touch .container {
+        min-height: 575px;
+    }
+    footer [class*='col-'] {
+        margin-bottom: 50px;
+    }
+    footer .copyright {
+        margin-top: 40px;
+    }
+}
+@media (max-width: 850.98px) {
+    .complex-exterior {
+        padding-bottom: 90px;
+    }
+    .complex-exterior .end {
+        margin-top: 280px;
+        transform-origin: left top;
+        transform: scale(0.8);
+    }
+    .featured-slider .featured-content {
+        background-color: rgba(13, 75, 119, 0.85);
+        padding: 24px 27px 24px;
+        border-radius: 12px;
+        bottom: 15px;
+    }
+    .featured-slider .swiper-button-prev {
+        left: 15px;
+    }
+    .featured-slider .swiper-button-next {
+        right: 15px;
+    }
+    .featured-slider .swiper-button-next,
+    .featured-slider .swiper-button-prev {
+        max-width: 45px;
+    }
+    .featured-slider .featured-content.desktop {
+        display: none;
+    }
+    .featured-slider .featured-content.mobile {
+        display: block;
+    }
+
+    .featured-slider .swiper-pagination {
+        display: none;
+    }
+    .featured-slider .featured-content > a {
+        right: 17px;
+        transform: translateY(-50%) scale(0.75);
+    }
+}
+@media (max-width: 767.98px) {
+    .text-12 {
+        font-size: 28px;
+    }
+    .big-title {
+        font-size: 52px;
+    }
+    .welcome-video .swiper-1 {
+        height: 300px;
+    }
+    .welcome-video:not(.get-in-touch) {
+        margin-top: 98.59px;
+    }
+    .testimonial {
+        padding-top: 55px;
+    }
+    .testimonial .container {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .complex-exterior {
+        padding-bottom: 0;
+    }
+    .complex-exterior .end {
+        transform: scale(0.7);
+        margin-top: 200px;
+    }
+    .relationship-driven .rd-video {
+        top: 98.59px;
+    }
+    .services {
+        padding-top: 85px;
+        padding-bottom: 85px;
+    }
+    .services .parallax {
+        width: 100%;
+        background-position: 0 0;
+    }
+    .services .title {
+        min-height: 305px;
+    }
+    .scrolling-text {
+        min-height: 700px;
+    }
+    .scrolling-text h2 {
+        font-size: 80px;
+    }
+    .our-markets {
+        padding-top: 80px;
+        padding-bottom: 75px;
+    }
+    .our-markets .top h3 {
+        font-size: 50px;
+    }
+    .our-markets .bottom h3 {
+        font-size: 28px;
+    }
+    .featured-slider .feature-btn-wrapper a {
+        padding: 13px 22px;
+        font-size: 14px;
+    }
+    .get-in-touch .container {
+        min-height: 600px;
+    }
+    footer .container {
+        max-width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .complex-exterior .parallax-img {
+        max-width: 450px;
+    }
+}
+@media (max-width: 700.98px) {
+    .featured-slider .featured-content {
+        bottom: -220px;
+        width: calc(100% - 28px);
+    }
+    .featured-slider .featured-content > a {
+        position: relative !important;
+        margin-left: 10px;
+        transform: scale(0.75);
+        margin-top: 15px;
+    }
+    .featured-slider .featured-content > a:hover {
+        margin-left: 4px;
+    }
+    .get-in-touch {
+        margin-top: 270px;
+    }
+}
+@media (max-width: 605.98px) {
+    .complex-exterior {
+        margin-bottom: -100px;
+    }
+    .complex-exterior .end {
+        transform: scale(0.6);
+        margin-top: 150px;
+    }
+}
+@media (max-width: 575.98px) {
+    .long-arrow-icon {
+        transform: scale(0.7, 0.68);
+    }
+    .welcome-video .swiper-1 {
+        height: 250px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .owl-nav button {
+        max-width: 35px !important;
+    }
+    .text-12 {
+        font-size: 27px;
+    }
+    .big-title {
+        font-size: 42px;
+    }
+    .title-font {
+        padding-left: 14px;
+        padding-right: 14px;
+    }
+    .welcome-video:not(.get-in-touch) {
+        margin-top: 90.05px;
+    }
+    .welcome-video video {
+        height: 400px;
+    }
+    .complex-exterior {
+        margin-bottom: -80px;
+    }
+    .complex-exterior h3 {
+        font-size: 44.5px;
+    }
+    .complex-exterior .end {
+        margin-top: 120px;
+    }
+    .relationship-driven .rd-video {
+        top: 90.05px;
+    }
+    .services .box-back h3 {
+        font-size: 46px;
+    }
+    .services .btn {
+        padding: 10px 18px;
+        padding-right: 7px;
+    }
+    .services .btn h4 {
+        font-size: 30px;
+    }
+    .testimonial .container {
+        padding-left: 35px;
+        padding-right: 35px;
+        padding-top: 70px;
+    }
+    .scrolling-text {
+        min-height: 600px;
+        margin-top: 55px;
+    }
+
+    .scrolling-text .bg-image {
+        height: calc(100% - 80px);
+    }
+    .scrolling-text h2 {
+        font-size: 60px;
+    }
+    .our-markets .top {
+        padding: 32px 32px;
+        padding-top: 28px;
+    }
+    .our-markets .top h3 {
+        font-size: 45px;
+        line-height: 1.1;
+    }
+    .get-in-touch .container {
+        min-height: 500px;
+    }
+    .featured-slider .fs-item img {
+        border-radius: 11px;
+    }
+    .featured-slider .featured-content > a {
+        margin-top: 12px;
+        margin-bottom: -5px;
+    }
+    .featured-slider .featured-content > a:hover {
+        margin-left: 4px;
+    }
+    footer {
+        padding-top: 80px;
+    }
+    footer .footer-logo {
+        max-width: 270px;
+        margin-bottom: 50px;
+    }
+    .complex-exterior .parallax-img {
+        max-width: 400px;
+    }
+}
+@media (max-width: 479.98px) {
+    .text-12 {
+        font-size: 25px;
+    }
+    .big-title {
+        font-size: 35px;
+    }
+    .welcome-video:not(.get-in-touch) {
+        margin-top: 82.48px;
+    }
+    .relationship-driven .rd-video {
+        top: 82.48px;
+    }
+    .relationship-driven .rd-video video {
+        height: 400px;
+    }
+    .services .btn {
+        left: 18px;
+        right: 18px;
+    }
+    .complex-exterior {
+        margin-bottom: -60px;
+    }
+    .complex-exterior .end {
+        margin-top: 100px;
+    }
+    .relationship-driven .rd-content > div .rd-content .big-title {
+        font-size: 35px;
+    }
+    .relationship-driven .rd-content > div .rd-content .text-12 {
+        font-size: 21px;
+    }
+    .relationship-driven .rd-content > div .rd-content > div {
+        margin-top: 100px;
+    }
+    .relationship-driven .scrolling-text {
+        min-height: 500px;
+    }
+    .relationship-driven .scrolling-text h2 {
+        font-size: 60px;
+        margin-top: 45px;
+    }
+    .relationship-driven .testimonial .container {
+        padding-left: 28px;
+        padding-right: 28px;
+    }
+    .relationship-driven .featured-slider .feature-btn-wrapper a {
+        padding: 10px 20px;
+        font-size: 11px;
+    }
+    .relationship-driven .get-in-touch .container {
+        min-height: 450px;
+    }
+}
+@media (max-width: 420.98px) {
+    .featured-slider .featured-content h3 {
+        font-size: 26.5px;
+    }
+    .featured-slider .featured-content p {
+        font-size: 15px;
+    }
+}
+@media (max-width: 383.98px) {
+    .welcome-video:not(.get-in-touch) {
+        margin-top: 79.47px;
+    }
+    .relationship-driven .rd-video {
+        top: 79.47px;
+    }
+    .text-12 {
+        font-size: 23px;
+    }
+    .featured-slider .featured-content {
+        bottom: -225px;
+    }
+}
