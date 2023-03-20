@@ -879,26 +879,22 @@ video {
     transform: translateX(-50%);
 }
 .featured-slider .feature-btn-wrapper div {
-    border: 2px solid #0b436b;
+    border: 2px solid var(--maroon);
     border-bottom-left-radius: 11px;
     border-bottom-right-radius: 11px;
     display: inline-block;
     transition-duration: 0.4s;
 }
-.featured-slider .feature-btn-wrapper div:hover {
-    border-color: var(--maroon);
-}
+
 .featured-slider .feature-btn-wrapper a {
-    background-color: #0b436b;
+    background-color: var(--maroon);
     margin: 0 2px 2px;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
     padding: 17px 38.5px;
     font-size: 16px;
 }
-.featured-slider .feature-btn-wrapper div:hover a {
-    background-color: var(--maroon);
-}
+
 .featured-slider .featured-content {
     background-color: rgba(13, 75, 119, 0.85);
     padding: 26px 49px 48px;
